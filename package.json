@@ -1,0 +1,14 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
